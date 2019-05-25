@@ -1,35 +1,16 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Crossfit Games
 
+DESCRIPCIÓN:
+La Compañía Crossfit ha solicitado nuestros servicios para llevar a cabo el desarrollo de una aplicación que permita organizar una competencia deportiva a nivel mundial.  La compañía es la encargada de gestionar en todos los países en donde cuenta con afiliados la práctica de este nuevo deporte.
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+CrossFit es una actividad física que, según Malú Valle del Castillo, cofundadora y entrenadora principal en Greywolves CrossFit Cantabria, es “un programa de acondicionamiento físico basado en un entrenamiento constantemente variado de movimientos funcionales, y que se desarrolla con una alta intensidad”.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Los defensores de este tipo de ejercicio, que nació en Estados Unidos gracias al trabajo del ex gimnasta y entrenador Greg Glassman, defienden que el CrossFit es una de las actividades deportivas más completas, ya que trabaja, de manera variada y no monótona, las diez grandes áreas físicas principales: agilidad, coordinación, equilibrio, flexibilidad, fuerza, potencia, precisión, resistencia cardiorrespiratoria, resistencia muscular y velocidad.
 
-(* = Not included)
+Crossfit cuenta con gimnasios afiliados en más de 150 países, cada gimnasio es conocido como Box, los cuales utilizan la marca Crossfit entrenando a diversos atletas siguiendo este innovador método de ejercicios. Por lo que se tiene un listado de todos los gimnasios afiliados. Cada afiliado puede contar con muchos atletas en diferentes categorías.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Anualmente se realiza una competencia a nivel mundial en la que todos los atletas afiliados a los gimnasios en diferentes categorías pueden competir en 3 Etapas. La primera etapa se le denomina Open Crossfit Games, la cual como su nombre lo indica es abierta a cualquier afiliado. Para poder participar se debe cancelar una membresía de 20 dolares después de realizar el registro correspondiente en la plataforma. Al finalizar la competencia se seleccionan los mejores resultados por cada Región y estos participan en una segunda etapa denominada Regionals Crossfit Games. Los 3 mejores competidores de cada Región participan en la etapa final anual. Estos son los denominados Crossfit Games.
+ 
+Existen una serie de características que definen los CrossFit Games. La competición es a nivel mundial y cambia cada año. Los competidores entrenan durante un año, preparándose para pruebas que, hasta el momento de empezar a ejecutarlas, son un misterio.
+Todos los competidores deben estar correctamente documentados y acreditados por la administración de la competición, CrossFit Games Inc, disponiendo de las acreditaciones pertinentes, los pagos correspondientes y registrados en las bases de la competición. Al darle de alta a un competidor se almacena: El apodo, nombre completo, país de origen, nombre del Box (gimnasio)  y fecha de nacimiento.
+Cada competidor al ser registrado queda asociado a su país de Origen y además dependiendo de la ubicación geográfica a una Región, lo cual servirá para determinar, si llegara a clasificar, en donde debe realizar la etapa Regionals Crossfit Games. 
