@@ -1,0 +1,162 @@
+<!DOCTYPE HTML>
+<!--
+	Universidad Mariano Galvez de Guatemala 2019 proyecto Ingenieria del Software
+-->
+<html>
+	<head>
+		<title>Crear Perfil</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<header id="header">
+					<h1><a href="index.html">Crossfit Games</a> by Luis Chajil</h1>
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+						</ul>
+					</nav>
+				</header>
+
+			<!-- Main -->
+				<section id="main" class="container">
+					<header>
+						<h2>Formulario de participación</h2>
+						<p>Llene el siguiente formulario (* obigatorio)</p>
+					</header>
+									
+					<div class="row">
+						<div class="col-12">
+					<div class="row">
+						<div class="col-12">
+
+							<!-- Form -->
+								<section class="box">
+									<h3>Datos personales*</h3>
+									<form method="post" action="#">
+										<div class="row gtr-uniform gtr-50">
+											<div class="col-6 col-12-mobilep">
+												<input type="text" name="name" id="nombre" value="" placeholder="Nombre" />
+											</div>
+											<div class="col-6 col-12-mobilep">
+												<input type="text" name="lastname" id="apellido" value="" placeholder="Apellido" />
+											</div>
+											<div class="col-6 col-12-mobilep">
+												<input type="text" name="nick" id="apodo" value="" placeholder="Apodo" />
+											</div>
+											<div class="col-6 col-12-mobilep">
+												<input type="email" name="email" id="email" value="" placeholder="Correo" />
+											</div>
+											
+											<div class="col-6 col-12-mobilep">
+												<h4>Fecha de nacimiento</h4>
+													<input type="date" name="burndate" id="fnacimiento" value="" placeholder="Fecha de nacimiento" />
+												</div>
+											<div class="col-12">
+												<select name="category" id="pais">
+													<option value="">- Pais de origen -</option>
+													<option value="1">Africa</option>
+													<option value="2">Asia</option>
+													<option value="3">Australia</option>
+													<option value="4">Canada East</option>
+													<option value="5">Canada West</option>
+													<option value="6">Central East</option>
+													<option value="7">Europe/option>
+													<option value="8">Latin America</option>
+													<option value="9">Mid Atlantic</option>
+													<option value="10">North Central</option>
+													<option value="11">North East</option>
+													<option value="12">Northen California</option>
+													<option value="13">South Central</option>
+													<option value="14">South East</option>
+													<option value="15">South West</option>
+													<option value="16">Southern California</option>
+												</select>
+											</div>
+											<div class="col-6 col-12-mobilep">
+													<input type="password" name="password" id="password" value="" placeholder="clave de acceso" />
+												</div>
+												<div class="col-6 col-12-mobilep">
+														<input type="password" name="password2" id="password2" value="" placeholder="vuelva a ingresar clave" />
+													</div>
+											<div>
+													<h3>Rol en la competencia*</h3>
+											</div>											
+											<div class="col-4 col-12-narrower">
+												<input type="radio" id="juez" name="priority" checked>
+												<label for="juez">Juez de competencia</label>
+											</div>
+											<div class="col-4 col-12-narrower">
+												<input type="radio" id="competidor" name="priority">
+												<label for="competidor">Competidor</label>
+											</div>											
+										</div>
+										<hr />
+										<div>
+												<h3>Datos para la competencia*</h3>												
+												<div>
+													<div class="row gtr-uniform gtr-50">
+														<div class="col-6 col-12-mobilep">
+															<input type="text" name="peso" id="peso" value="" placeholder="Peso Kg." />
+														</div>
+														<div class="col-6 col-12-mobilep">
+																<input type="text" name="estatura" id="estatura" value="" placeholder="Estatura cm." />
+														</div>
+													</div>
+												</div>
+												<div class="col-6 col-12-mobilep">														
+												</div>
+													<div class="col-12">
+														<select name="category" id="pais">
+															<option value="">- Genero -</option>
+															<option value="1">Masculino</option>
+															<option value="1">Femenino</option>															
+														</select>
+													</div>
+										</div>
+										<hr />
+										<div class="col-6 col-12-narrower">
+												<input type="checkbox" id="copy" name="copy">
+												<label for="copy">Email me a copy of this message</label>
+											</div>
+											<div class="col-6 col-12-narrower">
+												<input type="checkbox" id="condicion" name="condicion" checked>
+												<label for="condicion">Acepto los terminos y condiciones</label>
+										</div>
+									</form>									
+									<hr />
+								</section>								
+						</div>
+					</div>
+				</section>				
+				<ul class="actions special">
+						<li><a href="#" class="button primary">Aceptar</a></li>						
+					</ul>
+
+			<!-- Footer -->
+				<footer id="footer">
+					<ul class="icons">
+						<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+					</ul>
+					<ul class="copyright">
+							<li>&copy; Proyecto con fines academicos.</li><li>Universidad Mariano Galvez de Guatemala</a></li>
+					</ul>
+				</footer>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
